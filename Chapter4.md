@@ -9,7 +9,7 @@ In the previous chapter you deployed your containerized applications using the `
 ### DockerHub
 [DockerHub](https://hub.docker.com) is a service provided by Docker for finding and sharing container images with your team. 
 > Docker Hub is a cloud-based repository in which Docker users and partners create, test, store and distribute container images. Through Docker Hub, a user can access public, open source image repositories, as well as use a space to create their own private repositories, automated build functions, webhooks and work groups.
->  *source: [https://searchitoperations.techtarget.com](https://searchitoperations.techtarget.com/definition/Docker-Hub)*
+>  <br/> *source: [https://searchitoperations.techtarget.com](https://searchitoperations.techtarget.com/definition/Docker-Hub)*
 
 Docker hub provides the following major features:
 - *Repositories*: Push and pull container images.
